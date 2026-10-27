@@ -34,10 +34,18 @@
 ---
 
 <h3 align="center">Всякая дичь:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdpka-flp&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Статистика GitHub" width="420" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpka-flp&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Статистика языков программирования" width="420" height="195" />
-</p>
 
-![snake gif](https://github.com/mdpka-flp/mdpka-flp/blob/output/github-snake-dark.svg)
+<table align="center" border="0">
+  <tr>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=mdpka-flp&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000" alt="Статистика GitHub" width="400" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpka-flp&layout=donut&theme=transparent&hide_border=true&langs_count=8&bg_color=00000000" alt="Статистика языков программирования" width="400" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/mdpka-flp/mdpka-flp/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
