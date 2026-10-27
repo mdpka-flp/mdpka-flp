@@ -1,5 +1,11 @@
 <h1 align="center">в общем-то соответственно >> тёма mdpka</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23_Coder-555555?style=flat&logo=csharp&logoColor=white" alt="C# Coder"/>
+  <img src="https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/FL_Studio-555555?style=flat&logo=flstudio&logoColor=white" alt="FL Studio"/>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-555555?style=flat&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
+</p>
 <img src="ava.jpg" width="35%" align="right" hspace="15">
 
 ### 📋 Обо мне:
