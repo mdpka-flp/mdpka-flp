@@ -1,8 +1,7 @@
-<h1 align="center">в общем-то соответственно</h1>
+<h1 align="center">в общем-то соответственно >> тёма mdpka</h1>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+<img src="ava.jpg" width="35%" align="right" hspace="15">
+
 ### 📋 Обо мне:
 Я Тёма (mdpka), совмещаю IT и творчество: пишу код в своих проектах, поднимаю сервера, занимаюсь музыкальным продакшном, фото и видео съёмкой.
 
@@ -17,15 +16,24 @@
 * **Видеомонтаж:** Работаю в DaVinci Resolve. Монтирую Reels/Shorts, подкасты и клипы, занимаюсь цветокоррекцией.
 * **Съемка и обработка:** Снимаю фото и видео на Lumix G90. Обрабатываю фото в Lightroom (есть опыт коммерческих съемок и репортажей с мероприятий).
 
-    </td>
-    <td valign="top" width="40%" align="center">
-      <img src="ТУТ_ССЫЛКА_НА_ТВОЮ_КАРТИНКУ" width="300" alt="" />
-    </td>
-  </tr>
-</table>
+---
+
+### Мои проекты:
+- [**Genesis**](https://github.com/mdpka-flp/Genesis) - Симуляция частиц, которая изначально создавалась для школьного проекта. Сейчас активно получает обновления с улучшениями.
+- [**Flux**](https://github.com/mdpka-flp/Flux) - Обыкновенный плеер для прослушивания аудио. На данный момент готовится первый релиз, в последующих обновлениях он будет получать всё больше функционала.
+- [**Minimized**](https://gamejolt.com/games/minimized/1026019) - Минималистичная игра головоломка. Полностью готова к релизу, но релиза нет. Хз, сколько ещё ждать)).
+- [**kapuctagram**](https://github.com/mdpka-flp/KapuctagramSDK) - Мессенджер, разработка которого пока что приостановлена. Сейчас появилась возможность значительно улучшить его и повысить безопасность, но не знаю, как скоро я вернусь к нему.
+
+### Ссылки и связь:
+- [**Telegram (mdpka.flp)**](https://t.me/mdpkaaa) - Мой основной Telegram канал с событиями из моей жизни и информацией по творческим проектам.
+- [**Telegram (mdpka.cs)**](https://t.me/mdpka_cs) - Второй Telegram канал по теме программирования.
+- [**YouTube**](https://www.youtube.com/@mdpka) - Ютуб канал с видосами про музыку.
+- [**mdpka-dots**](https://github.com/mdpka-flp/mdpka-dots) - Дотфайлы моего райса на CachyOS.
+- **Мой Discord** - ```mdpka```
 
 ---
 
+<h3 align="center">Всякая дичь:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdpka-flp&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Статистика GitHub" width="420" height="195" />
   &nbsp;&nbsp;
